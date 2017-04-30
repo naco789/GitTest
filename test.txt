@@ -1,0 +1,10 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A266-B21B
+
+ Directorio de C:\Users\Daniel\Desktop\GitTest
+
+29/04/2017  23:51    <DIR>          .
+29/04/2017  23:51    <DIR>          ..
+29/04/2017  23:51                 0 test.tx
+               1 archivos              0 bytes
+               2 dirs  27.697.934.336 bytes libres
